@@ -19,6 +19,10 @@ python translator.py
 
 参考我的另一个仓库[Minecraft-Moded-Language-Dataset](https://github.com/zigerZZZ/Minecraft-Moded-Language-Dataset)
 
+## 模型训练
+
+该模型在上述数据集共计50w条数据上训练了12轮，使用`NVDIA A40`显卡，训练6小时
+
 ## 文件说明
 
 `datas\`存放数据集的文件夹
